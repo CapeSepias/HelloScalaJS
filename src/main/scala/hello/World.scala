@@ -1,3 +1,5 @@
+//   https://github.com/awwsmm/HelloScalaJS
+
 package hello
 
 object World {

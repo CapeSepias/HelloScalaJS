@@ -1,1 +1,3 @@
+//   https://github.com/awwsmm/HelloScalaJS
+
 addSbtPlugin("org.scala-js" % "sbt-scalajs" % "1.3.0")
