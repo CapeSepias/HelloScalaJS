@@ -20,6 +20,8 @@ In this step, we will create a Scala.js project from scratch, adding the require
 
 Open [TUTORIAL.md](TUTORIAL.md) for the step-by-step tutorial.
 
+> [Click here](https://github.com/awwsmm/IntroToScalaTags) for the next tutorial, which covers Li Haoyi's ScalaTags library.
+
 ---
 
 ### Sources
