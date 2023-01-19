@@ -88,7 +88,7 @@ The last thing to do is to create an HTML file where we can run our JavaScript c
     <head>
         <meta charset="UTF-8">
         <title>Hello, World!</title>
-        <script type="text/javascript" src="./target/scala-2.13/helloscalajs-fastopt.js"></script>
+        <script type="text/javascript" src="../target/scala-2.13/helloscalajs-fastopt.js"></script>
     </head>
 
     <body>
